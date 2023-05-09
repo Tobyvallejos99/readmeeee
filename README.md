@@ -1,7 +1,7 @@
 Thumbs.db
 ehthumbs.db
 
-# Folder config file
+# Tobias Vallejos
 Desktop.ini
 
 # Recycle Bin used on file shares
