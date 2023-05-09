@@ -1,6 +1,6 @@
 ### Buenas!
 
-![Port](https://www.canva.com/design/DAFicidLtic/C_PjRBbxGuOro9p4pHyngw/edit?utm_content=DAFicidLtic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Port](https://cdn.discordapp.com/attachments/509143549787504665/1105563436672372798/image.png)
 <h1 align="center"> Mi nombre es Tobias Vallejos </h1>
 <hr/>
 <h2 align="center"> Contacto </h2>
@@ -40,7 +40,7 @@
 <br/>
 
 ```js
-const sanchezRamiroSill = {
+const tobyvallejos = {
   Skills: {
       DataBase:[
         SQL: ['PostgreSQL', 'SQL-Server']
@@ -54,7 +54,7 @@ const sanchezRamiroSill = {
         ]
     },
   Proyects: [
-      {FOODApp: ['React', 'NodeJS', 'Sequelize', 'Redux']},
+      {Countries pi: ['React', 'NodeJS', 'Sequelize', 'Redux']},
       {videogamesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL', 'Auth0', 'Stripe', 'NodeMeiler']}
     ],
 }
@@ -67,18 +67,16 @@ const sanchezRamiroSill = {
 <div>
   <h4>English</h4>
   <p>
-    I have always been interested in the educational and training fields. Currently, I am studying the University Technical Degree in Programming at the National Technological University in Córdoba, Argentina. Additionally, I have recently completed the Soy Henry bootcamp in Full Stack Web Development.
-
-    I work very well in teams and possess resilient and empathetic qualities. I can communicate my concerns effectively and actively listen to help my colleagues resolve their issues. Moreover, I can see potential in people even when they may not recognize it themselves.
+ My name is Tobías and I am 23 years old, I am currently a FullStack Developer, with various programming knowledge.
+I am a passionate and analytical programmer with strong problem solving and teamwork skills, backed by successful projects where I have demonstrated my ability to get results. My goal is to use my skills and experience to contribute to the success of your company.
   </p>
 </div>
 
 <div>
   <h4>Spanish</h4>
   <p>
-    Siempre he estado interesado/a en el ámbito educativo y formativo, y actualmente estoy estudiando la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional, en Córdoba, Argentina. Además, recientemente completé el bootcamp de Soy Henry en Desarrollo Web Full Stack.
-
-    Soy una persona que se desempeña muy bien en equipo, y cuento con habilidades de resiliencia y empatía. Puedo comunicar mis inquietudes y también realizar una escucha activa para ayudar a mis compañeros a resolver sus problemas. Además, suelo ver el potencial en las personas, incluso cuando ellas mismas no lo perciben.
+ Mi nombre es Tobías y tengo 23 años, soy actualmente un FullStack Developer, con varios conocimientos de programación.
+Soy un programador apasionado y analítico con habilidades sólidas en resolución de problemas y trabajo en equipo, respaldado por proyectos exitosos en los que he demostrado mi capacidad para obtener resultados. Mi objetivo es utilizar mis habilidades y experiencia para contribuir al éxito de su empresa
   </p>
 </div>
 
@@ -87,20 +85,6 @@ const sanchezRamiroSill = {
 <hr/>
 <h2 align="center">Projects / Proyectos</h2>
 <hr/>
-
-<h2> FOOD App </h2>
-<h4> Developed with: / Desarrollada con: </h4>
-<ul>
-  <h5>|--| Full Stack |--|</h5>
-    <li>React</li>
-    <li>NodeJS</li>
-    <li>Sequelize</li>
-    <li>Redux</li>
-</ul>
-<p>This was one of my first applications using React. I implemented all the knowledge acquired at Soy Henry to create a list of food recipes. In the application, you can search for recipes by name or filter them. When selecting a recipe, detailed information about the diet, description, and steps to prepare it will be displayed. Additionally, users can create new recipes with images, descriptions, information about diets, and steps to prepare it, as well as delete recipes from the database.
-    </p>
-<p>Esta fue una de mis primeras aplicaciones utilizando React. Implementé todos los conocimientos adquiridos en Soy Henry para crear una lista de recetas de comida. En la aplicación se puede buscar por el nombre de la receta o filtrarlas. Al seleccionar una receta, se mostrará información detallada sobre la dieta, descripción y los pasos para prepararla. Además, los usuarios pueden crear nuevas recetas, con imágenes, descripciones, información sobre las dietas y los pasos para prepararla, así como eliminar recetas de la base de datos.
-    </p>
 
 <hr/>
 
