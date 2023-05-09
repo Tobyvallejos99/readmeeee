@@ -11,9 +11,6 @@
     <a href="https://www.linkedin.com/in/tobiasvallejos99/">
       <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="TobiasVallejos LinkedIn Profile" height="40" width="40" />
       </a>
-    <a href="https://api.whatsapp.com/send/?phone=3548504261&text&app_absent=0" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined543426106008?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
-    </a>
     <a href="mailto:Tobyvallejos99@gmail.com">
      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="toby vallejos Gmail" height="50" width="50" />
      </a>
