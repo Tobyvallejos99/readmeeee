@@ -1,8 +1,7 @@
-### Hi there 👋
+### Buenas!
 
-
-![Port](https://p4.wallpaperbetter.com/wallpaper/733/860/1021/clouds-chill-out-landscape-mountains-wallpaper-preview.jpg)
-<h1 align="center"> Hola, mi nombre es Tobias Vallejos </h1>
+![Port](https://www.canva.com/design/DAFicidLtic/C_PjRBbxGuOro9p4pHyngw/edit?utm_content=DAFicidLtic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<h1 align="center"> Mi nombre es Tobias Vallejos </h1>
 <hr/>
 <h2 align="center"> Contacto </h2>
 
@@ -15,12 +14,12 @@
     <a href="https://api.whatsapp.com/send/?phone=3548504261&text&app_absent=0" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined543426106008?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
-    <a href="mailto:RamiroSanchezSolano@gmail.com">
-     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Ramiro Sanchez Gmail" height="50" width="50" />
+    <a href="mailto:Tobyvallejos99@gmail.com">
+     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="toby vallejos Gmail" height="50" width="50" />
      </a>
 <div/>
 <br/>
-<p><label>RamiroSanchezSolano@gmail.com</label></p>
+<p><label>tobyvallejos99@gmail.com</label></p>
     
 <hr/>
     
